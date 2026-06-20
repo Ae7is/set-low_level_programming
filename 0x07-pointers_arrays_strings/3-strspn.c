@@ -14,7 +14,7 @@ unsigned int _strspn(char *s, char *accept)
 	unsigned int j;
 	unsigned int count;
 	int found;
-	
+
 	i = 0;
 	count = 0;
 
